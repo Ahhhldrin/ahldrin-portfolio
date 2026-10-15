@@ -40,6 +40,7 @@ export default function Home() {
                   <a href={`https://github.com/${portfolio.githubUsername}`} target="_blank" rel="noreferrer" className="subtle-link">GITHUB <span aria-hidden="true">↗</span></a>
                   <a href={portfolio.linkedinUrl} target="_blank" rel="noreferrer" className="subtle-link">LINKEDIN <span aria-hidden="true">↗</span></a>
                   <a href={portfolio.facebookUrl} target="_blank" rel="noreferrer" className="subtle-link">FACEBOOK <span aria-hidden="true">↗</span></a>
+                  <a href="/resume/Alarcon-Resume.pdf" download className="subtle-link">DOWNLOAD RESUME <span aria-hidden="true">↓</span></a>
                 </div>
               </div>
             </div>
