@@ -112,7 +112,6 @@ export function Sidebar() {
               <span>{portfolio.email}</span><span aria-hidden="true">↗</span>
             </a>
           </div>
-          <span className="sidebar-status" title="Portfolio in progress"><span className="status-dot" /> IN PROGRESS</span>
         </div>
       </aside>
 
